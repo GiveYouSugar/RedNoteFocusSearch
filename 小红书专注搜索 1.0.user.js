@@ -9,6 +9,8 @@
 // @grant        unsafeWindow
 // @run-at       document-start
 // @include      https://www.xiaohongshu.com/*
+// @downloadURL  https://raw.githubusercontent.com/GiveYouSugar/RedNoteFocusSearch/main/小红书专注搜索%201.0.user.js
+// @updateURL    https://raw.githubusercontent.com/GiveYouSugar/RedNoteFocusSearch/main/小红书专注搜索%201.0.user.js
 // ==/UserScript==
 
 (function() {
