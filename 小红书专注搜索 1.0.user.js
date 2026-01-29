@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         小红书专注搜索
-// @namespace
+// @namespace    https://github.com/GiveYouSugar/RedNoteFocusSearch
 // @version      1.0
 // @description  小红书网页版首页仅保留搜索框并美化，适配移动端
 // @author       Shan
